@@ -2,7 +2,7 @@
 #include "function.h"
 /**
  * main - The simple shell main program
- * Description: This program runs a basic shell
+ * Description: This task/program runs a basic shell
  *
  * @ac: argument count
  * @av: arguments vector
